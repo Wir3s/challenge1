@@ -8,13 +8,17 @@ The purpose of this project was to improve the codebase so that it follows acces
 
 N/A
 
+## Visuals
+
+
+
 ## Usage
 
 The site contains information about the services the company offers. It is updated to include accessibility standards and is now optimized for search engines.
 
 ## Credits
 
-N/A
+The original creators of the project are unknown at this time, but credit is due to them for the original creation. Only code modifications have been made, the displayed project is faithful to the original. 
 
 ## License
 
@@ -32,7 +36,7 @@ N/A
 
 N/A
 
-## Tests
+## Authors and acknowledgement
 
-N/A
+The original authors are unknown.
 
