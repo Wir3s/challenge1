@@ -10,7 +10,8 @@ N/A
 
 ## Visuals
 
-Screenshot coming soon
+![screenshot1](https://user-images.githubusercontent.com/113479857/197354849-2ad2a304-8d6f-4320-b951-8b5aa49902c0.png)
+
 
 ## Usage
 
