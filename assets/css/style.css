@@ -71,10 +71,13 @@ footer {
 
 /* Class Selectors */
 
+
+/* Text Color Change in Header */
 .seo {
     color: #d9dcd6;
 }
 
+/* Main Image Centered on Page */
 .hero {
     height: 800px;
     width: 100%;
