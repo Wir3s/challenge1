@@ -10,12 +10,13 @@ N/A
 
 ## Visuals
 
-![screenshot1](https://user-images.githubusercontent.com/113479857/197354849-2ad2a304-8d6f-4320-b951-8b5aa49902c0.png)
+https://user-images.githubusercontent.com/113479857/197354849-2ad2a304-8d6f-4320-b951-8b5aa49902c0.png
 
 
 ## Usage
 
 The site contains information about the services the company offers. It is updated to include accessibility standards and is now optimized for search engines.
+Visit https://wir3s.github.io/challenge1/ to view project.
 
 ## Credits
 
